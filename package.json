@@ -1,0 +1,19 @@
+{
+  "name": "ob-javascript",
+  "version": "1.0.0",
+  "description": "Repositorio del curso de JavaScript de OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsAmauriDev/OB-JavaScript.git"
+  },
+  "author": "Jorge Guillén",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsAmauriDev/OB-JavaScript/issues"
+  },
+  "homepage": "https://github.com/itsAmauriDev/OB-JavaScript#readme"
+}
